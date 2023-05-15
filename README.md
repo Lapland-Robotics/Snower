@@ -1,2 +1,2 @@
 # Snower
-Snower robot platforms files
+Snower files
